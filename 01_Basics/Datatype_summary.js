@@ -51,3 +51,13 @@ Arrays => object
 Function => function
 
 Object => object */
+
+
+//****************************************MEMORY ALOCATION IN JS********************************* */
+
+// There are two type memory :- Stack , Heap Memory
+
+/* Stack memory:- stack memory is used in premitive datattype.. jb bhi stack memory use hoti h jo bhi apne variable declare kra h uska ka copy milta h
+
+
+heap memory:- it is used in non- premitive datatype.. jb bhi koi object , array etc heap memory m jati h hume uska refrence milta h*/
