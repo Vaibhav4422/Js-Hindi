@@ -50,7 +50,7 @@ Arrays => object
 
 Function => function
 
-Object => object */
+Object => object */   //is s hume pta chala ki typeof krne pr kya value milti h
 
 
 //****************************************MEMORY ALOCATION IN JS********************************* */
